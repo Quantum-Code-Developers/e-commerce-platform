@@ -1,5 +1,6 @@
 
 # E-Commerce Platform Development
+![E-Commerce Platform](./img/Home.png)
 
 ## Overview
 This project is an e-commerce platform with features divided into **Client**, **Staff**, and **Administration** functionalities. The assignments are organized into sections and roles for a smooth development process.
