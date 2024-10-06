@@ -150,21 +150,10 @@ The database team will handle the design and management of the database.
 - **Developer 8**: Payment Processing
 - **Database Team**: Database Design and Management
 
----
-
-## How to Run the Project
-1. Clone the repository.
-2. Install dependencies: `composer install`.
-3. Set up `.env` file with database and payment gateway configurations.
-4. Run migrations: `php artisan migrate`.
-5. Serve the project: `php artisan serve`.
-
----
 
 ## Contributing
 For contributing guidelines, please check the `CONTRIBUTING.md` file.
 
 ---
 
-## License
-This project is licensed under the MIT License.
+
